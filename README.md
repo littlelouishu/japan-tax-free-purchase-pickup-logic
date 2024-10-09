@@ -1,5 +1,5 @@
 # JapanTaxFreePurchasePickup
-Pickup logic in Japanese tax-free purchases.
+Pickup logic in Japan tax-free purchase.
 
 2024年現時点の日本の免税購入制度による商品免税対象ピックアップロジックの整理。
 
