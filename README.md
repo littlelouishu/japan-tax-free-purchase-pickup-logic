@@ -76,8 +76,7 @@ Pickup logic in Japan tax-free purchase.
 参考資料
 
 https://www.nta.go.jp/taxes/shiraberu/taxanswer/shohi/6559.htm
+
 https://www.nta.go.jp/publication/pamph/shohi/menzei/201805/pdf/0023004-052_04.pdf
-https://www.mlit.go.jp/common/001396378.pdf
+
 https://taxfree.jp/faq/totaling/
-https://news.yahoo.co.jp/articles/5105f9abe5cacd57c61afa035336a26751947a46
-https://news.yahoo.co.jp/articles/e4eea59e5b0abc02f0169ffe8adfea3c7def5eaf
